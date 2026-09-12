@@ -4,11 +4,11 @@ wip.
 
 <p align="center"><img width="420" height="11" alt="221239" src="https://github.com/user-attachments/assets/2c177178-c15b-4044-8146-146a49707add" /></p>
 
-<p align="center">${\color{#52677d}\textsf{˗ˏˋ✧ ݁₊˚☾ ݁₊⋆⏔⏔⏔ ꒰᧔✴︎᧓꒱ ⏔⏔⏔‧₊˚☁︎⋆˚☆´ˎ˗}}$</p>
-<p align="center">${\color{#52677d}\textsf{‿‿    𝑽𝒂𝒓𝒆𝒏    ⏜⏜    𝑯𝒂𝒔𝒆𝒍𝒉𝒖𝒓𝒔𝒕 / 𝟎𝟒𝟗    ‿‿
+<p align="center">${\color{#023e08}\textsf{˗ˏˋ✧ ݁₊˚☾ ݁₊⋆⏔⏔⏔ ꒰᧔✴︎᧓꒱ ⏔⏔⏔‧₊˚☁︎⋆˚☆´ˎ˗}}$</p>
+<p align="center">${\color{#0ff524}\textsf{‿‿    𝑽𝒂𝒓𝒆𝒏    ⏜⏜    𝑯𝒂𝒔𝒆𝒍𝒉𝒖𝒓𝒔𝒕 / 𝟎𝟒𝟗    ‿‿
 † ⸝⸝ ⋆ ꒰  𝒔𝒉𝒆 · 𝒉𝒆𝒓 · 𝒕𝒉𝒆𝒚 ꒱ ⋆ ⸝⸝ †}}$
-${\color{#52677d}\textsf{☆ 𝒂𝒓𝒐𝒂𝒄𝒆 . ☽ . 𝒔𝒚𝒎𝒑𝒂𝒕𝒉𝒆𝒕𝒊𝒄 ☆}}$</p>
-<p align="center">${\color{#52677d}\textsf{˗ˏˋ꒰ঌ ⏔⏔⏔ ᧔✴︎᧓ ⏔⏔⏔ ໒꒱´ˎ˗}}$</p>
+${\color{#0ff524}\textsf{☆ 𝒂𝒓𝒐𝒂𝒄𝒆 . ☽ . 𝒔𝒚𝒎𝒑𝒂𝒕𝒉𝒆𝒕𝒊𝒄 ☆}}$</p>
+<p align="center">${\color{#023e08}\textsf{˗ˏˋ꒰ঌ ⏔⏔⏔ ᧔✴︎᧓ ⏔⏔⏔ ໒꒱´ˎ˗}}$</p>
 
 
 <p align="center"><img width="344" height="24" alt="221241" src="https://github.com/user-attachments/assets/cd49073c-f692-423f-ae3c-83659bb11ee5" /></p>
