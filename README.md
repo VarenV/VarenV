@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=VarenV&label=𝑷𝒂𝒕𝒊𝒆𝒏𝒕𝒔%20𝑻𝒓𝒆𝒂𝒕𝒆𝒅&color=000000&label_color=8b0000&style=for-the-badge)
 
-wip.
-
 <p align="center"><img width="420" height="11" alt="221239" src="https://github.com/user-attachments/assets/2c177178-c15b-4044-8146-146a49707add" /></p>
 
 <p align="center">${\color{#023e08}\textsf{˗ˏˋ✧ ݁₊˚☾ ݁₊⋆⏔⏔⏔ ꒰᧔✴︎᧓꒱ ⏔⏔⏔‧₊˚☁︎⋆˚☆´ˎ˗}}$</p>
